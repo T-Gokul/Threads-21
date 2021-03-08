@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #1e4276;
+    /* background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6), url(/imges/logo.jpg));
+    background-position: center;
+    background-size: cover; */
+}
+
+.logo {
+    margin: 10px 0;
+}
+
+.bx {
+    box-shadow: 4px 4px 18px rgba(255, 204, 42, 0.3);
+}
+
+
+/*Register*/
+
+.bt {
+    background-color: #1e4276;
+    font-size: 15px;
+}
+
+button a {
+    text-decoration: none;
+    display: block;
+    color: #ffcc2a;
+}
+
+button a:hover {
+    color: #e4b61e;
+}
+h2 {
+    color: rgba(107, 5, 75, 0.884);
+    font-family:monospace;
+  }
